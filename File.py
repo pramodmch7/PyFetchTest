@@ -1,3 +1,0 @@
-import Fetch
-
-Fetch.Name()
