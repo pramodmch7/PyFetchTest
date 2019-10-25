@@ -1,4 +1,4 @@
 class Start():
-    han = 'HanU'
+    han = 'HanUmaN7'
     def __init__():
         print("HanUmaN")
